@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="55.38245mm"
+   height="55.288311mm"
+   viewBox="0 0 55.382449 55.288312"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="cart-add.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="129.96013"
+     inkscape:cy="107.87269"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815"
+       originx="-7.4610932"
+       originy="-221.6142" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-7.4610934,-20.09748)">
+    <path
+       style="opacity:1;fill:#3cdc50;fill-opacity:1;stroke:none;stroke-width:20.00125885;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 110.65039,-34.560547 V 12 h -10 l 20,35 20,-35 h -10 V -34.560547 Z M 13.195312,0 C 1.8715326,0 1.7445962,0.02659503 0.58203125,2.578125 -0.69369073,5.378025 0.11027766,7.5382738 3.1347656,9.4335938 4.4146856,10.235714 5.5963015,10.06577 7.8984375,8.75 9.8325765,7.64455 13.047921,7.0037156 16.628906,7.0097656 l 5.669922,0.00977 14.75,51.2480464 c 8.112499,28.18633 14.75,51.992068 14.75,52.900388 0,0.90833 -2.698705,8.10474 -5.998047,15.99219 -3.299338,7.88744 -5.999342,14.6657 -6,15.06445 -0.002,1.18465 6.404413,-0.35633 7.591797,-1.82617 0.601852,-0.74503 3.526854,-7.42435 6.5,-14.84375 l 5.40625,-13.49024 64.714842,-0.2832 c 55.9388,-0.24376 64.91748,-0.48466 66.20508,-1.78125 1.78464,-1.79708 19.90142,-85.410994 19.07227,-88.023434 C 206.83095,18.018123 202.79971,19.99997 202.5,22 l -18,80 C 164.31561,101.997 68.626285,102.0371 56.798828,102 49.461818,73.76902 37.181717,38.1912 32.431641,17.25 28.58779,3.8693702 27.559566,1.1232756 26.205078,0.60351562 25.341607,0.27216563 19.487122,0 13.195312,0 Z m 34.589844,144.40039 c -0.176442,-0.002 -0.352902,-5.4e-4 -0.529297,0.004 -7.297617,0.16725 -13.41533,5.56353 -14.492187,12.7832 -1.191725,7.98803 4.155158,15.48559 12.095703,16.96094 7.941227,1.47525 15.62471,-3.60246 17.380859,-11.48633 l 0.314454,-2.11133 c 0.619901,-8.05288 -5.247691,-15.1508 -13.273438,-16.05664 -0.496825,-0.0562 -0.996146,-0.0874 -1.496094,-0.0937 z m 122.000004,0 c -0.17579,-0.002 -0.3516,-5.1e-4 -0.52735,0.004 -7.29836,0.16631 -13.41715,5.56282 -14.49414,12.7832 -1.19162,7.98867 4.15632,15.4865 12.09766,16.96094 7.94055,1.47409 15.62275,-3.60336 17.3789,-11.48633 l 0.31446,-2.11133 c 0.6199,-8.05288 -5.24769,-15.1508 -13.27344,-16.05664 -0.49682,-0.0562 -0.99614,-0.0874 -1.49609,-0.0937 z M 61.867188,148 l 2.064453,3.5 2.064453,3.5 h 42.828126 42.82812 l 1.57227,-3.1543 c 0.86528,-1.7345 1.57422,-3.30951 1.57422,-3.5 0,-0.19048 -20.91035,-0.3457 -46.4668,-0.3457 z"
+       transform="matrix(0.26458333,0,0,0.26458333,7.4613267,29.241625)"
+       id="path830"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
